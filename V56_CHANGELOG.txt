@@ -1,0 +1,5 @@
+V56 CHANGELOG (by Lovable)
+==========================
+- Replaced site-wide logo (assets/NovaX_APPROVED_LOGO_ASSET.png) with the new NovaX logo: white "Nova" lettering, blue-to-purple gradient X, white TM mark, transparent background.
+- Swapped the logo baked into both homepage hero artworks (portrait + landscape) to the new logo; tagline preserved.
+- Adjusted quiz profile-card logo sizing for the new logo proportions.
